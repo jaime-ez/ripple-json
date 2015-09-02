@@ -1,0 +1,15 @@
+{
+  "method" : "submit",
+  "params" : [
+    {
+      "secret" : "",
+      "tx_json" :
+      {
+        "TransactionType": "AccountSet",
+        "Account" : "",
+        "Fee": "10000",
+        "SetFlag":
+      }
+    }
+  ]
+}

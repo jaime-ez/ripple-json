@@ -1,0 +1,20 @@
+{
+  "method" : "submit",
+  "params" : [
+    {
+      "secret" : "",
+      "tx_json" :
+      {
+        "TransactionType": "TrustSet",
+        "Account": "",
+        "Fee": "",
+        "Flags": "",
+        "LimitAmount": {
+          "currency": "",
+          "issuer": "",
+          "value": ""
+        }
+      }
+    }
+  ]
+}

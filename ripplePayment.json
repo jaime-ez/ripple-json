@@ -1,0 +1,21 @@
+{
+  "method" : "submit",
+  "params" : [
+    {
+      "secret" : "",
+      "tx_json" :
+      {
+        "TransactionType" : "Payment",
+        "Account" : "",
+        "Destination" : "",
+        "Amount" : {
+          "currency" : "",
+          "value" : "",
+          "issuer" : ""
+        },
+        "DestinationTag": "",
+        "Fee": ""
+      }
+    }
+  ]
+}
